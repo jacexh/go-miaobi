@@ -1,9 +1,9 @@
 package pkg
 
 import (
-	"github.com/go-jimu/template/internal/pkg/database"
-	"github.com/go-jimu/template/internal/pkg/grpcsrv"
-	"github.com/go-jimu/template/internal/pkg/httpsrv"
+	"github.com/jacexh/go-miaobi/internal/pkg/database"
+	"github.com/jacexh/go-miaobi/internal/pkg/grpcsrv"
+	"github.com/jacexh/go-miaobi/internal/pkg/httpsrv"
 	"go.uber.org/fx"
 )
 

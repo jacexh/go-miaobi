@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/go-jimu/components/mediator"
-	"github.com/go-jimu/template/internal/pkg/validator"
+	"github.com/jacexh/go-miaobi/internal/pkg/validator"
 	"github.com/google/uuid"
 	"golang.org/x/crypto/bcrypt"
 )

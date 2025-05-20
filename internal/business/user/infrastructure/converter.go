@@ -4,9 +4,9 @@ import (
 	"time"
 
 	"github.com/go-jimu/components/mediator"
-	"github.com/go-jimu/template/internal/business/user/application"
-	"github.com/go-jimu/template/internal/business/user/domain"
-	"github.com/go-jimu/template/internal/pkg/database"
+	"github.com/jacexh/go-miaobi/internal/business/user/application"
+	"github.com/jacexh/go-miaobi/internal/business/user/domain"
+	"github.com/jacexh/go-miaobi/internal/pkg/database"
 	"github.com/jinzhu/copier"
 	"github.com/samber/oops"
 )

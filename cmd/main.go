@@ -9,12 +9,12 @@ import (
 	"github.com/go-jimu/components/config/loader"
 	"github.com/go-jimu/components/mediator"
 	"github.com/go-jimu/components/sloghelper"
-	"github.com/go-jimu/template/internal/business/user"
-	"github.com/go-jimu/template/internal/pkg"
-	"github.com/go-jimu/template/internal/pkg/database"
-	"github.com/go-jimu/template/internal/pkg/eventbus"
-	"github.com/go-jimu/template/internal/pkg/grpcsrv"
-	"github.com/go-jimu/template/internal/pkg/httpsrv"
+	"github.com/jacexh/go-miaobi/internal/business/user"
+	"github.com/jacexh/go-miaobi/internal/pkg"
+	"github.com/jacexh/go-miaobi/internal/pkg/database"
+	"github.com/jacexh/go-miaobi/internal/pkg/eventbus"
+	"github.com/jacexh/go-miaobi/internal/pkg/grpcsrv"
+	"github.com/jacexh/go-miaobi/internal/pkg/httpsrv"
 	"go.uber.org/fx"
 )
 

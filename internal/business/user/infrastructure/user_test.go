@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"testing"
 
-	"github.com/go-jimu/template/internal/pkg/database"
+	"github.com/jacexh/go-miaobi/internal/pkg/database"
 	"go.uber.org/fx/fxtest"
 	"xorm.io/xorm"
 )

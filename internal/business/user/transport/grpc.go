@@ -3,7 +3,7 @@ package transport
 import (
 	"context"
 
-	"github.com/go-jimu/template/internal/business/user/application"
+	"github.com/jacexh/go-miaobi/internal/business/user/application"
 	"google.golang.org/grpc/examples/helloworld/helloworld"
 )
 

@@ -6,7 +6,7 @@ import (
 
 	"github.com/go-jimu/components/mediator"
 	"github.com/go-jimu/components/sloghelper"
-	"github.com/go-jimu/template/internal/business/user/domain"
+	"github.com/jacexh/go-miaobi/internal/business/user/domain"
 )
 
 type CommandChangePasswordHandler struct {

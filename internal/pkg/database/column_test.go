@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/go-jimu/template/internal/pkg/database"
+	"github.com/jacexh/go-miaobi/internal/pkg/database"
 )
 
 func TestTimestamp(t *testing.T) {

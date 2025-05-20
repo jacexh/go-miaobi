@@ -1,7 +1,7 @@
 package infrastructure
 
 import (
-	"github.com/go-jimu/template/internal/pkg/database"
+	"github.com/jacexh/go-miaobi/internal/pkg/database"
 )
 
 type UserDO struct {

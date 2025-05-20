@@ -1,12 +1,12 @@
-module github.com/go-jimu/template
+module github.com/jacexh/go-miaobi
 
-go 1.23.0
+go 1.24.0
 
 toolchain go1.24.1
 
 require (
 	github.com/go-chi/chi/v5 v5.1.0
-	github.com/go-jimu/components v0.6.4
+	github.com/go-jimu/components v0.6.7
 	github.com/go-playground/validator/v10 v10.23.0
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
